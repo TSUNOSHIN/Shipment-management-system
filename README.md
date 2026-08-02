@@ -1,5 +1,6 @@
-# Shipment-management-system
 # 出荷指示管理システム
+
+GitHub: https://github.com/TSUNOSHIN/Shipment-management-system
 
 物流現場（花王ロジスティクス）での実務経験をもとに、使いにくかった既存システムの課題を解決するために開発した出荷指示管理アプリです。
 
